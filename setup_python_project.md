@@ -8,15 +8,15 @@ Remember to run the script as `$ source setup_python_project.sh`.
 
 The following project is generated.
 
-.
-├── README.md
-├── pyproject.toml
-├── requirements.txt
-├── src
-│   └── pack
-│       ├── __init__.py
-│       └── utils
-│           ├── __init__.py
-│           └── example.py
-└── tests
-    └── test_example.py
+    .
+    ├── README.md
+    ├── pyproject.toml
+    ├── requirements.txt
+    ├── src
+    │   └── pack
+    │       ├── __init__.py
+    │       └── utils
+    │           ├── __init__.py
+    │           └── example.py
+    └── tests
+        └── test_example.py
